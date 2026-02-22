@@ -1,2 +1,2 @@
-# python-sql
-data analysis project using python and sql
+# python-sql-bi
+data analysis project 
