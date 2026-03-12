@@ -17,6 +17,7 @@ This project analyzes an e-commerce dataset using SQL and Python to extract busi
 - Jupyter Notebook
 
 - ## Dataset
+- https://drive.google.com/drive/folders/1IfC8yU0_kyKFBcRC6JxV9n-N7WS9_qNu?usp=drive_link
 The dataset contains:
 - Orders table
 - Customers table
