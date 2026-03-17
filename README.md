@@ -11,10 +11,10 @@ This project analyzes an e-commerce dataset using SQL and Python to extract busi
 
   ## Tools & Technologies
 - SQL (MySQL / SQLite)
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+- Python (jupyter notebook)
+- Pandas (data manipulation & analysis)
+- Matplotlib (visualization)
+
 
 - ## Dataset
 - https://drive.google.com/drive/folders/1IfC8yU0_kyKFBcRC6JxV9n-N7WS9_qNu?usp=drive_link
@@ -33,4 +33,9 @@ The dataset contains:
 - Customer retention within 6 months
 - Top 3 customers by yearly spending
 - Sales per category
+- 
+##Data Cleaning & Preparation
+	Data Import & Initial Exploration
+ 	Used SQL (DISTINCT, GROUP BY) to remove duplicates
+	Ensured no duplicate transactions affected analysis
 
