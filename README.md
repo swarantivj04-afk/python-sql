@@ -34,8 +34,15 @@ The dataset contains:
 - Top 3 customers by yearly spending
 - Sales per category
 - 
-##Data Cleaning & Preparation
+	##Data Cleaning & Preparation:
+
 	Data Import & Initial Exploration
  	Used SQL (DISTINCT, GROUP BY) to remove duplicates
 	Ensured no duplicate transactions affected analysis
 
+## insights:
+	sales has been increased year by year ..in 2018 it was 6155806.980002943
+	the retention rate within 6 months of 1st percentage is 0
+	max sales is under furniture category with 527 sold and less in insurance and services with 2 sold
+
+	
