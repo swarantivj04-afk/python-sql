@@ -41,13 +41,18 @@ The dataset contains:
 	Ensured no duplicate transactions affected analysis
 
 ## insights:
-	sales has been increased year by year ..in 2018 it was 6155806.980002943
-	the retention rate within 6 months of 1st percentage is 0
-	max sales is under furniture category with 527 sold and less in insurance and services with 2 sold
-##challenges faced:
-	Ensuring measures update correctly with filters was challenging.
-	Extracting week number from transaction date
-	Defining meaningful buckets (Age Groups, Income Levels)
-	Avoiding clutter while showing multiple KPIs
+sales has been increased year by year ..in 2018 it was 6155806.980002943.
+
+the retention rate within 6 months of 1st percentage is 0.
+
+max sales is under furniture category with 527 sold and less in insurance and services with 2 sold
+## challenges faced:
+Ensuring measures update correctly with filters was challenging.
+
+Extracting week number from transaction date.
+
+Defining meaningful buckets (Age Groups, Income Levels).
+
+Avoiding clutter while showing multiple KPIs.
 
 	
