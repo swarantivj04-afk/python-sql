@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Data Analysis (SQL + Python)
+#  E-Commerce Data Analysis (SQL + Python)
 
-## 📌 Overview
+##  Overview
 
 This project analyzes an **e-commerce dataset** using **SQL and Python** to uncover key business insights such as revenue trends, customer retention, top-performing products, and regional performance.
 
@@ -8,7 +8,7 @@ The goal is to transform raw transactional data into **actionable insights** tha
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Calculate **total sales per category**
 * Identify **top 3 customers per year**
@@ -18,7 +18,7 @@ The goal is to transform raw transactional data into **actionable insights** tha
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **SQL** (MySQL / SQLite)
 * **Python (Jupyter Notebook)**
@@ -27,7 +27,7 @@ The goal is to transform raw transactional data into **actionable insights** tha
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 🔗 [Dataset Link](https://drive.google.com/drive/folders/1IfC8yU0_kyKFBcRC6JxV9n-N7WS9_qNu?usp=drive_link)
 
@@ -42,7 +42,7 @@ The goal is to transform raw transactional data into **actionable insights** tha
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 * Performed **data import & initial exploration**
 * Removed duplicates using:
@@ -54,27 +54,27 @@ The goal is to transform raw transactional data into **actionable insights** tha
 
 ---
 
-## 🔍 Key SQL Analysis & Visualizations
+##  Key SQL Analysis & Visualizations
 
-* 📊 Total revenue per year
-* 📈 Year-over-Year Growth using `LAG()`
-* 🔁 Customer retention (within 6 months)
-* 👤 Top 3 customers by yearly spending
-* 🛍️ Sales per product category
-
----
-
-## 📈 Key Insights
-
-* 📊 Sales show a **consistent year-over-year increase**
-* 📅 Revenue peaked in **2018 (~6.15M)**
-* ⚠️ Customer retention within 6 months is **very low (≈ 0%)**
-* 🪑 Highest sales category: **Furniture (527 units sold)**
-* 📉 Lowest sales categories: **Insurance & Services (2 units sold)**
+*  Total revenue per year
+*  Year-over-Year Growth using `LAG()`
+*  Customer retention (within 6 months)
+*  Top 3 customers by yearly spending
+*  Sales per product category
 
 ---
 
-## ⚠️ Challenges Faced
+##  Key Insights
+
+*  Sales show a **consistent year-over-year increase**
+*  Revenue peaked in **2018 (~6.15M)**
+*  Customer retention within 6 months is **very low (≈ 0%)**
+*  Highest sales category: **Furniture (527 units sold)**
+*  Lowest sales categories: **Insurance & Services (2 units sold)**
+
+---
+
+##  Challenges Faced
 
 * Ensuring measures update correctly with filters
 * Extracting **week numbers** from transaction dates
@@ -83,7 +83,7 @@ The goal is to transform raw transactional data into **actionable insights** tha
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project highlights how combining **SQL and Python** can:
 
@@ -93,7 +93,7 @@ This project highlights how combining **SQL and Python** can:
 
 ---
 
-## 📌 Key Learnings
+##  Key Learnings
 
 * Writing optimized SQL queries (joins, aggregations, window functions)
 * Data cleaning and transformation techniques
